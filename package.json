@@ -1,0 +1,16 @@
+{
+  "name": "dappstest",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "tsx test.ts",
+    "dev": "tsx test.ts"
+  },
+  "dependencies": {
+    "@alphland/dapps": "^1.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
